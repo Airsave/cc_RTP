@@ -1,0 +1,75 @@
+<Test>
+  <Name>rmcat-wired</Name>
+  <Result>PASS</Result>
+  <Time real="226.960" user="226.630" system="0.220"/>
+  <Test>
+    <Name>rmcat-test-case-5.1-fixfps</Name>
+    <Result>PASS</Result>
+    <Time real="11.730" user="11.730" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>rmcat-test-case-5.1-fixfps-pdel_100ms</Name>
+    <Result>PASS</Result>
+    <Time real="11.700" user="11.700" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>rmcat-test-case-5.1-cbrlike</Name>
+    <Result>PASS</Result>
+    <Time real="11.200" user="11.190" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>rmcat-test-case-5.1-stats</Name>
+    <Result>PASS</Result>
+    <Time real="11.840" user="11.840" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>rmcat-test-case-5.1-trace</Name>
+    <Result>PASS</Result>
+    <Time real="12.490" user="12.470" system="0.030"/>
+  </Test>
+  <Test>
+    <Name>rmcat-test-case-5.1-sharing</Name>
+    <Result>PASS</Result>
+    <Time real="9.000" user="8.990" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>rmcat-test-case-5.1-hybrid</Name>
+    <Result>PASS</Result>
+    <Time real="12.510" user="12.500" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>rmcat-test-case-5.2-fixfps</Name>
+    <Result>PASS</Result>
+    <Time real="15.480" user="15.460" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>rmcat-test-case-5.3-fixfps</Name>
+    <Result>PASS</Result>
+    <Time real="23.440" user="23.400" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>rmcat-test-case-5.4-fixfps</Name>
+    <Result>PASS</Result>
+    <Time real="12.950" user="12.930" system="0.020"/>
+  </Test>
+  <Test>
+    <Name>rmcat-test-case-5.5-fixfps</Name>
+    <Result>PASS</Result>
+    <Time real="44.590" user="44.510" system="0.050"/>
+  </Test>
+  <Test>
+    <Name>rmcat-test-case-5.6-fixfps</Name>
+    <Result>PASS</Result>
+    <Time real="8.520" user="8.500" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>rmcat-test-case-5.7-fixfps</Name>
+    <Result>PASS</Result>
+    <Time real="27.000" user="26.910" system="0.080"/>
+  </Test>
+  <Test>
+    <Name>rmcat-test-case-5.8-fixfps</Name>
+    <Result>PASS</Result>
+    <Time real="14.490" user="14.480" system="0.000"/>
+  </Test>
+</Test>
